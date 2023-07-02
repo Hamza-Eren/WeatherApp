@@ -18,7 +18,7 @@ import json
 from splashscreen import splashscreen
 
 url = "http://api.openweathermap.org/data/2.5/weather"
-api_key = "cc811f7c871c4039a49a0074dd54522c"
+api_key = "YOUR API_KEY"
 iconUrl = "http://openweathermap.org/img/wn/{}@2x.png"
              
 def getWeather(sehir):
