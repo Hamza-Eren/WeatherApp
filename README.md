@@ -14,3 +14,14 @@ Yazıldığı dil : Python
 
 ### Açıklama:
 Bu uygulama animasyonlu bir şekilde hazırlanmıştır ve openweathermap API'ı kullanarak yazılmıştır.
+
+### Örnek Resimler
+
+![Açılış Ekranı](https://github.com/Hamza-Eren/Weather-App/blob/main/images/splashscreen.png)
+> `Splash Screen`
+
+![Uygulama Ekranı](https://github.com/Hamza-Eren/Weather-App/blob/main/images/Ankara.png)
+> `İl hava durumu sorgulama`
+
+![Uygulama Ekranı](https://github.com/Hamza-Eren/Weather-App/blob/main/images/Cankaya.png)
+> `İlçe hava durumu sorgulama`
