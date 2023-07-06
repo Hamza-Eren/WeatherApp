@@ -17,11 +17,11 @@ Bu uygulama animasyonlu bir şekilde hazırlanmıştır ve openweathermap API'ı
 
 ### Örnek Resimler
 
-![Açılış Ekranı](https://github.com/Hamza-Eren/Weather-App/blob/main/images/splashscreen.png)
+![Açılış Ekranı](https://github.com/Hamza-Eren/WeatherApp/blob/main/images/splashscreen.png)
 > `Splash Screen`
 
-![Uygulama Ekranı](https://github.com/Hamza-Eren/Weather-App/blob/main/images/Ankara.png)
+![Uygulama Ekranı](https://github.com/Hamza-Eren/WeatherApp/blob/main/images/Ankara.png)
 > `İl hava durumu sorgulama`
 
-![Uygulama Ekranı](https://github.com/Hamza-Eren/Weather-App/blob/main/images/Cankaya.png)
+![Uygulama Ekranı](https://github.com/Hamza-Eren/WeatherApp/blob/main/images/Cankaya.png)
 > `İlçe hava durumu sorgulama`
